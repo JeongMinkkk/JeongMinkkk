@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
   </br>
   <!--  .ENV  -->
-  <img src="https://img.shields.io/badge/.ENV-ECD53F?style=flat-square&logo=.ENV&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/.ENV-ECD53F?style=flat-square&logo=.ENV&logoColor=white"/> -->
   <!--  FireBase  -->
   <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=FireBase&logoColor=white"/>
   </br>
@@ -35,7 +35,7 @@
   <!--  googlechrome  -->
   <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
   <!--  homebrew  -->
-  <img src="https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white"/> -->
 </div>
 <!-- 
     Team Collaboration Tool
@@ -68,7 +68,7 @@
   <!--  Notion  -->
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <!--  velog  -->
-  <a href="https://velog.io/@jeonminah13" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<!--   <a href="https://velog.io/@jeonminah13" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> -->
   <!--  GitHub  -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
